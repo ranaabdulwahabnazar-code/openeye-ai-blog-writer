@@ -400,4 +400,4 @@ export default function BlogPage() {
 }
 '@ | Set-Content app/blog/page.tsx
 
-Write-Host "All files updated successfully!" -ForegroundColor Green
+Write-Host "All files updated successfully!" -ForegroundColor Green.\setup2.ps1
